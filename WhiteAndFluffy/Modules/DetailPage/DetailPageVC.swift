@@ -84,6 +84,7 @@ final class DetailPageVC: BaseController {
         viewModel.checkIfPhotoIsInCoreData(photo: photo)
         configure()
         setupViews()
+        disableBackGesture()
     }
     
     private func bind() {

@@ -38,6 +38,7 @@ class BaseController: UIViewController {
         } else {
             automaticallyAdjustsScrollViewInsets = false
         }
+        
     }
     
     // MARK: - Setup

@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-final class AppCenter{
+final class AppCenter {
     //MARK: - Properties
     var window: UIWindow = UIWindow()
     static let shared = AppCenter()
