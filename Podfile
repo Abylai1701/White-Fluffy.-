@@ -9,4 +9,5 @@ target 'WhiteAndFluffy' do
 	pod 'UnsplashPhotoPicker', '~> 1.3'
   	pod 'Alamofire', '~> 5.4'
 	pod 'Kingfisher'
+	pod 'lottie-ios'
 end
